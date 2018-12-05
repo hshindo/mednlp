@@ -1,0 +1,5 @@
+__pycache__
+*.jar
+.data
+*.jld2
+sandbox.jl
