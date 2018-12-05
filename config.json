@@ -1,5 +1,5 @@
 {
-  "wordvec_file": ".data/glove.6B.100d.h5",
+  "wordvec_file": ".data/jawiki_20180420_100d.h5",
   "train_file": ".data/train_opinion.txt",
   "nepochs": 10,
   "learning_rate": 0.0015,
